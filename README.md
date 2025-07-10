@@ -1,5 +1,8 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![pymssql](https://img.shields.io/badge/Database-SQLServer-blueviolet)
+![Pandas](https://img.shields.io/badge/pandas-Data%20Processing-black?logo=pandas)
 
 # Dynamics 365 Automation (Automated Invoice Processing & Journal Entry System)
 
