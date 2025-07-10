@@ -1,0 +1,8 @@
+# ignore config files
+*.ini
+
+# ignore Virtual Environment files
+VE/
+
+# ignore __pycache__ files
+__pycache__/
